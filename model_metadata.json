@@ -1,0 +1,11 @@
+{
+    "algorithm": "IsolationForest",
+    "version": "1.0",
+    "parameters": [
+        100,
+        "auto",
+        0.0016,
+        1.0
+    ],
+    "fraud_f1": 0.31856540084388185
+}
